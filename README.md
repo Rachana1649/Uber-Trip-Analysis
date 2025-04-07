@@ -10,6 +10,7 @@ Analyse Uber trip data using Power BI to gain insights into booking trends, reve
 *	Average Trip Time – What is the average duration of trips?
 ### Dashboard
 <a href = "https://github.com/Rachana1649/Uber-Trip-Analysis/blob/main/Uber%20data%20Analysis.pbix"> View Dashboard </a>
+
 * Overview Dashboard - Analyse Uber trip data using Power BI to gain insights into booking trends, revenue, and trip efficiency, helping 
   stakeholders make data-driven decisions.
 * Time Analysis Dashboard -  To understand trip patterns based on time, Uber needs to analyse ride demand and trends across different time 
