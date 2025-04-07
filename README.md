@@ -23,6 +23,8 @@ Analyse Uber trip data using Power BI to gain insights into booking trends, reve
 
 ![Details](https://github.com/user-attachments/assets/829b6688-8adb-49e0-a192-7a758fb039e5)
 
+![Information](https://github.com/user-attachments/assets/4d4e6f05-db44-4373-93fe-a57b22920d68)
+
 ### Projects Insights
 
 * Identifying trends in ride bookings and revenue generation.
